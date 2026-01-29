@@ -8,7 +8,7 @@
 
 [![Badge License]][License]
 
-Self-hosted **Javascript** emulation for various systems.
+Mod of **EmulatorJS** that adds netplay to emulation of various systems.
 
 <br>
 
@@ -27,7 +27,7 @@ Join our Discord server:
 <br>
 
 > [!NOTE]  
-> **As of EmulatorJS version 4.0, this project is no longer a reverse-engineered version of the emulatorjs.com project. It is now a complete rewrite.**
+> **As of EmuPlayJS version 4.0, this project is a modern version of the emulatorjs.com project.**
 
 > [!WARNING]  
 > As of version 4.0.9 cores and minified files are no longer included in the repository. You will need to get them separately. You can get it from [releases](https://github.com/EmulatorJS/EmulatorJS/releases) or the \* new CDN (see [this](#CDN) for more info). There is also a new version system that we will be using. (read [here](#Versioning) for more info).
