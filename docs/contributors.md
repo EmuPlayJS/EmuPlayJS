@@ -6,6 +6,7 @@
 <br>
 <br>
 
+![EmuPlayJS Avatar]
 
 ### EmuPlayJS Owner
 
