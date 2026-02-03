@@ -114,7 +114,7 @@
 <!----------------------------------{ EmuPlayJS }----------------------------------->
 [Badge EmuPlayJS GitHub]: https://img.shields.io/badge/EmuPlayJS-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [Badge EmuPlayJS Website]: https://img.shields.io/badge/EmuPlayJS.github.io.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVEhLtdVbaM5hHMDxlzmvHNoyzbHEZlphyanckRslh0SK2sUutms3btyhKBdiEgoX5GK5IOdQIo0UEW2hOZ/mkOOcvt/1PH9v75937zK/+vTufd49p9//9zz/zP+OovBZSAzACAzFD3xFl9ErfP4tirEQyzAVfWF8Qwv24TA+o1vhaqfjPL4HP+GqHdy/3YXtrXARg1BQjMRGvMcHnMQLOGATjsCBn+IYXsL/24bRyBsDsQVu+TVWwvS8ggPNx1g8xhssxgxcgrs7irw7mQcH78AiWARbw/dm9IOxAabJT9M5GabKne1Cb6RiCK7Df9qOSajBRTiYO5sQLICTXsM0VGATPuEd3GkqGuDgskJu4A4+wgnuhzbdghPodmizj2my/w70RxKWa1xpT7iAUUhyZeWMgZVTj5nBWhhWUmzTLGyGcRCxfTZMkwfSlCcxBU9g6VXZQLir1XBF5j/3UK6Cvx3o/PY7fI7P4DlKdpDd2XqPEX93oNww10budWO7/TrHjAO0wx/6oAyWnuJ9U4rYJmu9BIZVE9s9Rx42D94XJCv3jvEhm6orMFWGuZwDD9ZlxJ3Yz3KthpV2E4YL9Nrw4K1AG5JYD9PjIP9qN+KhTMIqsgLcWi1cvSt0R3ayuoYHlbDi7mFiaKvDW5ger5g/xjo4wXN4x7jlPfD5HEe8rp3MSXfCvDvJ1dB2GqnVx7B298MT6urWYDm82Jx0LtzZXbjaJTDnZ+Dgp+BlmDdM1Qm4agdx5Q/D90bsDX/7AD2xTuyzOwt3UlAMhgfIEnSw+PBNX/YLR95V5zAeqcg9ndnhGfFWXIpxKIdXin1c9SM8gCs/BAskFfkmiOEB8kU/LLCPO/OF5Iuo2+/jHoxM5hef3tZ5zF6TlgAAAABJRU5ErkJggg==
-[EmuPlayJS Avatar]: https://avatars.githubusercontent.com/u/77750390?s=90 'EmuPlayJS'
+[EmuPlayJS Avatar]: https://avatars.githubusercontent.com/u/257418655?s=90 'EmuPlayJS'
 
 <!----------------------------------{ Ethan }----------------------------------->
 [Badge Ethan GitHub]: https://img.shields.io/badge/Ethan_O'_Brien-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
