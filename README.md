@@ -217,11 +217,11 @@ If you want to help with localization, please check out the [localization](data/
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮   Quicklinks   🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 --->
 
-[Configurator]: https://emulatorjs.org/editor
+[Configurator]: https://emuplayjs.github.io/editor/
 [Contributors]: docs/contributors.md
-[Website]: https://emulatorjs.org/
-[Usage]: https://emulatorjs.org/docs/
-[Demo]: https://demo.emulatorjs.org/
+[Website]: https://emuplayjs.github.io/
+[Usage]: https://emuplayjs.github.io/docs/
+[Demo]: https://emuplayjs.github.io/demo/
 
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮  Systems  🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 -->
