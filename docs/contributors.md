@@ -14,7 +14,7 @@
 
 <a href="https://github.com/EmuPlayJS" target="_blank">**![Badge EmuPlayJS GitHub]**</a>
 
-<a href="https://i dont have one :(" target="_blank">**![Badge EmuPlayJS Website]**</a>
+<a href="https://emuplayjs.github.io" target="_blank">**![Badge EmuPlayJS Website]**</a>
 
 <br>
 <br>
